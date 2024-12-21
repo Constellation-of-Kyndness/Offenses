@@ -32,8 +32,15 @@ For the history of changes to these, see [the Changelog](./CHANGELOG.md) or the 
 
 
 
-## Trolling
+## Bullying
 
-**Definition:** Being a troll, engaging in trolling behavior.
+**Definition:** Being a bully, engaging in bullying behavior.
 
-> This definition of “trolling” is a pattern of repeatedly sending messages designed specifically to incite strong emotions without regret. Notable signs include responding to requests to back down with “u mad?” style attitude
+> This definition of “bullying” is a pattern of repeatedly performing actions designed specifically to incite strong emotions without regret.
+
+
+### Examples
+- Responding to requests to back down with smugness
+- Unduly harassing a community member
+- Bringing up topics with no desire to discuss them when questioned
+- Behavior noted in emotional abuse identification

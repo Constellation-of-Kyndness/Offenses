@@ -1,4 +1,30 @@
+
 # 2024-12-21
+
+## Change 2
+
+Changed "Trolling" to "Bullying".
+
+Added new examples of Bullying.
+
+Updated Bullying to the following formatting & rewording:
+
+> ## Bullying
+>
+> **Definition:** Being a bully, engaging in bullying behavior.
+>
+> > This definition of “bullying” is a pattern of repeatedly performing actions designed specifically to incite strong emotions without regret.
+> > Notable signs include:
+> >
+> > - Responding to requests to back down with smugness
+> > - Unduly harassing a community member
+> > - Bringing up topics with no desire to discuss them when questioned
+> > - Behavior noted in emotional abuse identification
+
+
+
+
+## Change 1
 
 Created this Git repo to list Offenses and track changes without a character limit, and to reduce reliance on Telegram.
 
