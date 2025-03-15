@@ -1,5 +1,60 @@
 
-# 2024-12-21
+# [2025-03-15](https://github.com/Constellation-of-Kyndness/Offenses/compare/2024-12-21...2025-03-15)
+
+## Change 2
+
+### Added "Adults Only"
+
+This helps us avoid legal issues.
+
+> ## Adults only
+>
+> **Offensive action:** Existing in a body which isn't yet adult.
+>
+> > This definition of “adult” is a body which has not yet aged 18 years.
+>
+> ### Examples
+> - Engaging in Constellation of Kyndness chats before your body's 18th birthday
+
+
+### Added "Follow Mewtwo's Lesson"
+
+This reduces the allowance of disingenuous & bad-faith actors.
+
+> **Offensive action:** Treating others as lesser by birth.
+>
+> > This definition of “Mewtwo's Policy” is acknowledging that the circumstances of one's birth are irrelevant, and that it's what one chooses to do with the gift of life which determines who one is.
+>
+> ### Examples
+> - Racism & racial supremacy
+> - Sexism
+> - Transphobia
+> - Homophobia
+> - Ableism
+> - Saneism/Sanism
+> - Misanthropy
+> - Nazism
+> - Fascism
+
+
+
+## Change 1
+
+Updating the headings from actions ("Spamming", "Scamming", "Bullying") to commands ("No spam", "No scams", "No bullying").
+This clarifies what is required.
+
+Changed the wording of the offense description from "Definition:" to "Offensive action:".
+This eliminates confusion/duplication of the following definition line.
+
+Updated wording of introductory paragraph to fit with this new language.
+This new wording makes it clear what happens when one of these offenses is committed.
+
+Added paragraphs explaining the definitions & examples present in each offense section.
+These help clarify how to read these sections.
+
+
+
+# [2024-12-21](https://github.com/Constellation-of-Kyndness/Offenses/compare/31503fb9033a0b5ee2219583e219f2514b5722d1...2024-12-21)
 
 ## Change 2
 
@@ -20,8 +75,6 @@ Updated Bullying to the following formatting & rewording:
 > > - Unduly harassing a community member
 > > - Bringing up topics with no desire to discuss them when questioned
 > > - Behavior noted in emotional abuse identification
-
-
 
 
 ## Change 1
